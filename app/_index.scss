@@ -1,0 +1,45 @@
+.jumbotron-index {
+    display: flex;
+    align-items: center;
+    background-image: url("../imgs/neoncitybg.jpg");
+    background-size: cover;
+    position: relative;
+    min-height: 710px;
+    margin: 0;
+}
+
+.jumbotron-index h1, h3 {
+    text-transform: uppercase;
+    color: hsl(300, 100%, 90%);
+    font-weight: 700;
+    padding: 1rem;
+}
+
+
+.footer_links ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_links li {
+    list-style: none;
+}
+
+.footer_links li a {
+    text-decoration: none;
+    color: inherit;
+    padding: 1.5rem;
+    display: block;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+
+.footer_links li:hover, li:active {
+    color: $Midlightblue;
+    text-shadow: 0 0 10px $Brightpink,
+                 0 0 20px $Brightpink;
+}

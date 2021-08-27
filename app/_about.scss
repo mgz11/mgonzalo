@@ -1,0 +1,34 @@
+.about-page {
+    background: linear-gradient(#e66465, #9198e5);
+    line-height: 2rem;
+}
+
+.about-heading {
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 1.5rem;
+}
+
+.about-content {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+.code-skills {
+    text-align: center;
+    font-size: 2.1rem;
+}
+
+.code-language li{
+    text-align: center;
+    list-style: none;
+    font-size: 2rem;
+    padding: 20px 0;
+}
+
+.code-language li:hover, li:active {
+    color: inherit;
+    text-shadow: none;
+}

@@ -1,0 +1,15 @@
+.exp-page {
+  background: -webkit-gradient(linear, left top, left bottom, from(#005361), to(#92007c));
+  background: linear-gradient(#005361, #92007c);
+  padding: 2rem 0rem;
+}
+
+.exp-heading {
+  padding-left: 1.5rem;
+  text-align: center;
+}
+
+.exp-list li, p {
+  padding-bottom: 20px;
+}
+/*# sourceMappingURL=experience.css.map */

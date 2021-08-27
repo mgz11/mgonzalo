@@ -1,0 +1,28 @@
+.edu-page {
+    background: linear-gradient(#005361, #92007c);
+}
+
+.edu-heading {
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.college {
+    padding: 1.5rem;
+    font-size: 2.1rem;
+}
+
+.fouryearuni h4 {
+    background: linear-gradient(135deg, $UCDBlue, $UCDGold);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cc h4 {
+    background: linear-gradient(135deg, $NVCGreen, $NVCGold);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
